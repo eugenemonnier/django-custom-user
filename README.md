@@ -13,4 +13,4 @@
 - Verify that duplicate emails are not allowed
 
 ## Pull Requests
-[PR #1]()
+[PR #1](https://github.com/eugenemonnier/django-custom-user/pull/1)
